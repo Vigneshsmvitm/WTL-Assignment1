@@ -17,7 +17,6 @@ A professional multi-page website showcasing a complete resume and bio-data with
 ├── index.html # Home page
 ├── resume.html # Resume page
 ├── biodata.html # Bio-data page
-├── contact.html # Contact page
 ├── styles.css # All website styling
 ├── script.js # JavaScript functionality
 └── README.md # Project documentation
